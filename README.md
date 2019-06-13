@@ -1,7 +1,7 @@
 # ihoover
 PHP Demo
 
-## Exercice
+# Exercice
 
 La société “iHoover” a décidé de développer un aspirateur automatique.
 
