@@ -32,8 +32,6 @@ DADADADAA
 
 On attend le résultat suivant : 5 6 N
 
-NB : le programme doit pouvoir évoluer facilement en fonction de nouvelles contraintes qui vous seront communiquées lors de l’entretien.
-
 
 ## Lancement
 
