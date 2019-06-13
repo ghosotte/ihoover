@@ -2,6 +2,7 @@
 PHP Demo
 
 ## Exercice
+
 La société “iHoover” a décidé de développer un aspirateur automatique.
 
 L’aspirateur doit pouvoir parcourir l'intégralité d’une pièce donnée, sa position est représentée par ses coordonnées (x,y) et d'une lettre indiquant l'orientation selon la notation cardinale anglaise (N,E,W,S). Une pièce est modélisée par une grille rectangulaire.
